@@ -1,6 +1,6 @@
 # Análise Exploratória de CEP's da região do Campo Limpo utilizando Python e Power Bi
 
-Raspagem de Dados utilizando a linguagem Python e integrando ela com a ferramenta Power Bi.
+*Raspagem de Dados utilizando a linguagem Python e integrando ela com a ferramenta Power Bi.*
 
 Escolhi a região do Campo Limpo para essa análise pois é a região onde eu resido.
 
